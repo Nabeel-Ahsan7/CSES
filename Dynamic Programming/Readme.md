@@ -7,8 +7,9 @@ This repository contains my solutions to the CSES Problem Set, organized by prob
 | Problem Name | Problem Link | Solution Link |
 |--------------|--------------|--------------|
 | Dice Combinations | [Problem Link](https://cses.fi/problemset/task/1633) | [Solution](./Dice_Combinations.cpp) |
-| Dice Combinations | [Problem Link](https://cses.fi/problemset/task/1633) | [Solution](./Dice_Combinations.cpp) |
-(Iterative) 
+| Dice Combinations
+(Iterative)| [Problem Link](https://cses.fi/problemset/task/1633) | [Solution](./Dice_Combinations.cpp) |
+ 
 
 
 
