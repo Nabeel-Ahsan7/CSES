@@ -4,9 +4,9 @@ This repository contains my solutions to the CSES Problem Set, organized by prob
 
 ## Problem Solving Progress
 
-| Problem Name | Problem Link | Solution Link | Concept Notes |
-|--------------|--------------|--------------|--------------|
-| Weird Algorithm | [Problem Link](https://cses.fi/problemset/task/1068) | [Solution](./solutions/weird_algorithm.cpp) | [Concepts](./notes/basic_implementation.txt) |
+| Problem Name | Problem Link | Solution Link |
+|--------------|--------------|--------------|
+| Weird Algorithm | [Problem Link](https://cses.fi/problemset/task/1633) | [Solution](./Dice Combinations.cpp) |
 
 
 
@@ -19,5 +19,4 @@ This repository contains my solutions to the CSES Problem Set, organized by prob
 ## Notes
 
 - Solutions are primarily in C++
-- Concept notes explain the key algorithmic approach
 - Aim to optimize solutions over time
