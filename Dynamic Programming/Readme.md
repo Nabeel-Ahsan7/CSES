@@ -11,6 +11,7 @@ This repository contains my solutions to the CSES Problem Set, organized by prob
 | Minimizing Coins(Iterative)| [Problem Link](https://cses.fi/problemset/task/1634) | [Solution](./Minimizing_Coins_Iterative.cpp) |
 | Coin Combinations I (Iterative)| [Problem Link](https://cses.fi/problemset/task/1635) | [Solution](./Coin_Combinations_I_Iterative.cpp) |
 | Coin Combinations II (Iterative)| [Problem Link](https://cses.fi/problemset/task/1636) | [Solution](./Coin_Combinations_2_iterative.cpp) |
+| Grid Paths (Iterative)| [Problem Link](https://cses.fi/problemset/task/1637) | [Solution](./Grid_Paths_i.cpp) |
  
 
 
