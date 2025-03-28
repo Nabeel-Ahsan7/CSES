@@ -14,6 +14,7 @@ This repository contains my solutions to the CSES Problem Set, organized by prob
 | Grid Paths (Iterative)| [Problem Link](https://cses.fi/problemset/task/1637) | [Solution](./Grid_Paths_i.cpp) |
 | Book Shop (Iterative)| [Problem Link](https://cses.fi/problemset/task/1158) | [Solution](./Book_Shop_i.cpp) |
 | Array Description (Iterative)| [Problem Link](https://cses.fi/problemset/task/1746) | [Solution](./Array_Description_i.cpp) |
+| Counting Towers (Iterative)| [Problem Link](https://cses.fi/problemset/task/1746) | [Solution](./Counting_Towers.cpp) |
  
 
 
