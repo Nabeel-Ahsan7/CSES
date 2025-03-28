@@ -1,6 +1,6 @@
-# CSES Problem Set Solutions
+# CSES Problem Set Solutions(Daynamic Programming)
 
-This repository contains my solutions to the CSES Problem Set, organized by problem category and implemented in various programming languages.
+This repository contains my solutions to the CSES Problem Set(Daynamic Programming).
 
 ## Problem Solving Progress
 
