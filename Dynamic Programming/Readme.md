@@ -16,6 +16,7 @@ This repository contains my solutions to the CSES Problem Set(Daynamic Programmi
 | Array Description (Iterative)| [Problem Link](https://cses.fi/problemset/task/1746) | [Solution](./Array_Description_i.cpp) |
 | Counting Towers (Iterative)| [Problem Link](https://cses.fi/problemset/task/2413) | [Solution](./Counting_Towers.cpp) |
 | Edit Distance (Iterative)| [Problem Link](https://cses.fi/problemset/task/1639) | [Solution](./Edit_Distance_i.cpp) |
+| Rectangle Cutting (Iterative)| [Problem Link](https://cses.fi/problemset/task/1744) | [Solution](./Rectangle_Cutting.cpp) |
  
 
 
