@@ -18,6 +18,7 @@ This repository contains my solutions to the CSES Problem Set(Daynamic Programmi
 | Edit Distance (Iterative)| [Problem Link](https://cses.fi/problemset/task/1639) | [Solution](./Edit_Distance_i.cpp) |
 | Rectangle Cutting (Iterative)| [Problem Link](https://cses.fi/problemset/task/1744) | [Solution](./Rectangle_Cutting.cpp) |
 | Money Sums (Iterative)| [Problem Link](https://cses.fi/problemset/task/1745) | [Solution](./Money_Sum.cpp) |
+| Removal Game (Iterative)| [Problem Link](https://cses.fi/problemset/task/1097) | [Solution](./Removal_Game.cpp) |
  
 
 
