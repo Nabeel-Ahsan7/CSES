@@ -21,6 +21,7 @@ This repository contains my solutions to the CSES Problem Set(Daynamic Programmi
 | Removal Game (Iterative)| [Problem Link](https://cses.fi/problemset/task/1097) | [Solution](./Removal_Game.cpp) |
 | Two Sets II (Iterative)| [Problem Link](https://cses.fi/problemset/task/1093) | [Solution](./Two_Sets_II.cpp) |
 | Increasing Subsequence| [Problem Link](https://cses.fi/problemset/task/1145) | [Solution](./Increasing_Subsequence.cpp) |
+| Projects (Iterative) | [Problem Link](https://cses.fi/problemset/task/1140) | [Solution](./Projects.cpp) |
  
 
 
