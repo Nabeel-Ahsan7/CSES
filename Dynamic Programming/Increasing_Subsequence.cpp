@@ -32,15 +32,15 @@ void solve() {
         }
     }
     cout << ans.size() << endl;
-    vector<int>printSequence;
-    int curr = ans.size();
-    for(int i=insertInto.size();i>=0;i--){
-        if(curr==insertInto[i]){
-            printSequence.push_back(v[i]);
-            curr--;
-        }
-    }
-    reverse(all(printSequence));
+    // vector<int>printSequence;
+    // int curr = ans.size();
+    // for(int i=insertInto.size();i>=0;i--){
+    //     if(curr==insertInto[i]){
+    //         printSequence.push_back(v[i]);
+    //         curr--;
+    //     }
+    // }
+    // reverse(all(printSequence));
     // for(auto x : printSequence){
     //     cout << x << " ";
     // }
